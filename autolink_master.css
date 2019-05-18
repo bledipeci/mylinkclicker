@@ -1,0 +1,56 @@
+#autolinkheader{
+    color: white;
+}
+
+#facebooklogo{
+    padding-top: 90px;
+    font-size: 50px;
+}
+
+body{
+    font-family: 'Anton', sans-serif;
+}
+
+.logotext{
+    font-family: 'Anton', sans-serif;
+    padding-left: 10%;
+    font-size: 50px;
+}
+
+.logos{
+    padding-left: 0.5%;
+}
+
+#autolinkheader{
+    font-size: 50px;
+}
+
+#youtubelogo{
+    font-size: 50px;
+    padding-top: 3%;
+    color: red;
+    opacity: 1;
+}
+
+#twitterlogo{
+    font-size: 50px;
+    padding-top: 3%;
+    color: #38A1F3;
+}
+
+#twitchlogo{
+    font-size: 50px;
+    padding-top: 3%;
+    color:  #6441a5 ;
+}
+
+#robloxlogo{
+    font-size: 50px;
+    padding-top: 3%;
+    color: red;
+}
+
+body{
+    background: darkgrey;
+}
+
